@@ -1,0 +1,10 @@
+#App{
+    color: white;
+    background-color: rgb(3, 3, 17);
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

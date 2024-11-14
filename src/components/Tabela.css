@@ -1,0 +1,69 @@
+h1, span{
+    display: inline;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+h3{
+    color: rgb(163, 158, 158);
+    margin-bottom: 0.8rem;
+    margin-top: 0.8rem;
+    font-size: 1rem;
+}
+#Tabela{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#Thead{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Tbody{
+    margin: 1.5rem, 0;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #444;
+    
+}
+
+#info{
+    font-size: 1rem;
+}
+
+.th{
+    flex: 1;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.data{
+    flex: 1;
+}
+
+#voltar{
+    width: 300px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.Good{
+    color: #12db34;
+}
+
+.Low{
+    color: #dbce12;
+}
+
+.Medium{
+    color: #db7212;
+}
+
+.High{
+   color: #db1912
+}

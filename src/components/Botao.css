@@ -1,0 +1,15 @@
+
+#limpar{
+    margin-left: 5px;
+    background-color: rgb(14, 14, 14);
+}
+
+button{
+    display: inline-block;
+    color: white;
+    background-color: red;
+    border: 0px;
+    margin-top: 30px;
+    width: 230px;
+    height: 50px;
+}
